@@ -1,14 +1,5 @@
-# accordion
-
-## jQuery Plugins
-
-## 使い方
-```javascript
-$(function(){
-  $('.acdion').acdion();
-});
-```
+# サイトで右クリックしたら他のサイトへ飛ばす
 
 ## デモ
-<a href="http://webdrawer.net/sample/js/acdion/index.html" target="_blank">[デモページ]
-<a href="http://webdrawer.net/javascript/sideaccordion.html" target="_blank">[ブログ]</a>
+<a href="http://webdrawer.net/sample/js/escape/index.html" target="_blank">[デモページ]
+<a href="http://webdrawer.net/javascript/rightclickescape.html" target="_blank">[ブログ]</a>
